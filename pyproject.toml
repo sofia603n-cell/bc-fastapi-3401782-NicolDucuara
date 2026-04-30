@@ -1,0 +1,10 @@
+[project]
+name = "building-management-api"
+version = "1.0.0"
+description = "API para administración de edificios"
+readme = "README.md"
+requires-python = ">=3.10"
+
+dependencies = [
+    "fastapi[standard]==0.128.0",
+]
